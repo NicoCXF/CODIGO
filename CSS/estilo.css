@@ -1,0 +1,33 @@
+.P1{
+color:rgb(226, 30, 30);
+background-color: rgb(3, 255, 150);
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 20px;
+text-align: center;
+margin-top: 20%;
+}
+
+.P2{
+    color:rgb(226, 30, 30);
+    background-color: rgb(3, 255, 150);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 20%;
+    }
+
+
+.Titulo{
+    text-align: center;
+    color: white;
+    background-color: blue;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+body{
+    background-color: aquamarine;
+}
+.I1{
+    padding-top: 10%;
+    padding-left: 39%;
+}
